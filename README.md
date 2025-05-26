@@ -1,14 +1,15 @@
 👋 Hi, I’m Mukarram!
 
-👀 I have a passion for coding and a keen interest in technology.
+👨‍💻 I'm a passionate developer with a strong interest in modern web and mobile technologies.
 
-🌱 Currently, I'm diving deep into Web Development, learning the latest trends and technologies.
+💼 Since November 2024, I've been working at a software house, building real-world applications using both **React** and **React Native**.
 
-💼 I'm actively seeking an internship where I can contribute and grow my skills.
+🚀 I'm continuously leveling up my skills in front-end development, writing clean, maintainable code, and learning best practices from hands-on experience.
 
-💞️ I'm enthusiastic about collaborating on innovative projects and learning from experienced professionals.
+🤝 I love collaborating on innovative projects and solving real problems through code.
 
-📫 Feel free to reach out to me via email at muka654r@gmail.com. Looking forward to connecting!
+📫 Feel free to reach out via email at muka654r@gmail.com — I'm always open to connecting, sharing ideas, or discussing exciting opportunities!
+
 
 
 <!---
