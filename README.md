@@ -49,9 +49,9 @@
 
 <div align="center">
   
-  ![Mukarram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukarram-ali&show_icons=true&theme=tokyonight&count_private=true)
+  ![Mukarram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukarram685&show_icons=true&theme=tokyonight&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukarram-ali&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukarram685&layout=compact&theme=tokyonight)
   
 </div>
 
@@ -61,8 +61,8 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukarram-ali&theme=tokyonight)
-  ![Profile Views](https://komarev.com/ghpvc/?username=mukarram-ali&color=blueviolet)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukarram685&theme=tokyonight)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Mukarram685&color=blueviolet)
 
 </div>
 
@@ -72,8 +72,8 @@
 
 <p align="center">
   <a href="mailto:muka654r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mukarram-ali"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mukarram-ali"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/muhammad-mukarram-9220b9312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://github.com/mukarram-ali](https://github.com/Mukarram685)"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
