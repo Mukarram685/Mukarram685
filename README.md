@@ -1,105 +1,122 @@
-<h1 align="center">👋 Hi, I’m Mukarram Ali</h1>
+# 👋 Hi, I'm Mukarram Ali
+
+### Full Stack Developer | Web & Mobile Applications
+
+I build modern web and cross-platform mobile applications using **React.js, Next.js, React Native, TypeScript, JavaScript, Node.js, and Express.js**. I enjoy transforming real-world requirements into responsive interfaces, reliable application features, and maintainable software.
+
+📍 Lahore, Pakistan · 🤝 Open to opportunities and collaboration
 
 <p align="center">
-  💻 Full-Stack Developer (React | React Native | Node.js | Python) <br/>
-  Passionate about crafting scalable, user-friendly, and impactful digital experiences.
+  <a href="https://www.linkedin.com/in/muhammad-mukarram-9220b9312">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muka654r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-- 👨‍💻 I’m a developer with a strong interest in **modern web and mobile technologies**.
-- 💼 Since **November 2024**, I’ve been working at a **software house**, building real-world products using **React** and **React Native**.
-- 🚀 Currently expanding my skill set by learning **Backend Development** (Node.js, Express, MongoDB) and exploring **Python** for automation and backend systems.
-- ⚡ Working with **Supabase** (Auth, DB, Realtime) and **LiveKit** (real-time video & audio).
-- 🧩 I focus on **writing clean, maintainable code** and **following best practices** learned from hands-on experience.
-- 🤝 I love collaborating on **innovative projects** and solving **real-world problems through code**.
-- 📫 Reach me at **muka654r@gmail.com** — I’m always open to collaboration, learning, or discussing exciting opportunities.
+I'm a Full Stack Developer focused on building web and cross-platform mobile applications with maintainable architecture and practical, user-focused functionality.
 
----
+My development experience spans frontend architecture, reusable components, responsive interfaces, REST API integration, authentication, state management, backend services, and debugging.
 
-### 🧰 Tech Stack
+I enjoy working across different layers of an application—from designing user interfaces and managing application state to integrating APIs and connecting frontend experiences with backend services.
 
-<div align="center">
+- 💻 **Web Development:** React.js, Next.js, TypeScript, JavaScript
+- 📱 **Mobile Development:** React Native, React Native CLI, Expo, React Navigation
+- ⚙️ **Backend Development:** Node.js, Express.js, REST APIs, Axios
+- 🗄️ **Databases & Services:** MongoDB, Supabase, Firebase, OneSignal
+- 🔐 **Application Security:** JWT authentication, authorization, role-based access control
+- 🔄 **State Management:** Redux Toolkit, Redux Persist, TanStack Query, React Query
+- 🧩 **Engineering Practices:** Reusable components, form validation, debugging, responsive design, Git, and GitHub
 
-#### 💻 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🚌 Book&Go
 
-#### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Book&Go is my final-year project: an intercity bus booking and transportation management platform. It helps passengers discover routes and schedules, search for buses, check seat availability, and make reservations. It also supports transportation companies, operators, and administrators through role-specific workflows.
 
+### 🚗 FixMyRide
 
-#### 🎥 Realtime & Cloud
-![LiveKit](https://img.shields.io/badge/LiveKit-0F172A?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🧩 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-
-</div>
+FixMyRide is a vehicle-service application designed to make vehicle-related service experiences accessible through a digital platform. It focuses on user-friendly application interfaces, service-related workflows, and connecting application features with backend data and services.
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Featured Projects
 
-<div align="center">
-  
-![Mukarram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukarram685&show_icons=true&theme=tokyonight&count_private=true)
+### 🚌 Book&Go — Intercity Bus Booking & Transportation Management Platform
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukarram685&layout=compact&theme=tokyonight)
+**Book&Go** is my final-year project, designed to simplify intercity bus reservations by connecting passengers with transportation companies through a centralized booking platform.
 
-</div>
+The project focuses on the different workflows involved in discovering routes, finding scheduled trips, checking seat availability, managing reservations, and supporting the operational needs of transportation providers.
 
----
+#### Key Features
 
-### 🏆 GitHub Achievements
+- **Route and Schedule Discovery:** Organizes routes and scheduled trips so passengers can explore available transportation options.
+- **Bus Search:** Supports searching for buses and trips based on route and schedule information.
+- **Seat Availability:** Provides seat-availability functionality associated with individual trips.
+- **Reservation Workflows:** Supports the passenger booking process and reservation-related application flows.
+- **Transportation Company Management:** Supports company-specific functionality for managing transportation services.
+- **Trip and Schedule Management:** Separates recurring schedule information from date-specific trips to support transportation operations.
+- **Authentication and Authorization:** Uses authentication and role-based access patterns to control access to application functionality.
+- **Multiple User Roles:** Designed around passengers, transportation companies, operators, and administrators, with functionality tailored to each role.
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukarram685&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mukarram685&color=blueviolet)
-
-</div>
-
----
-### 🔥 Contribution Activity (Last Year → Present)
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukarram685&theme=tokyo-night)
-
-</div>
-
-👉 Shows commits, PRs, and activity from last year to now in graphical form.
+**Engineering focus:** Organizing application workflows, maintaining reusable components, managing data-driven screens, and separating user permissions according to role.
 
 ---
 
+### 🚗 FixMyRide — Vehicle Service Application
 
-### 🌍 Connect With Me
+**FixMyRide** is a vehicle-service application focused on bringing vehicle-related service experiences into a digital application. It provides a foundation for user-facing vehicle-service workflows, with application data and backend functionality supported by Supabase.
+
+#### Development Areas
+
+- **User Interface Development:** Building application screens and reusable interface components for vehicle-service experiences.
+- **Service Workflows:** Organizing vehicle-service interactions within a digital application.
+- **Backend Integration:** Connecting application features to Supabase for backend services and data.
+- **State Management:** Organizing application data and interactions across screens.
+- **Maintainable Architecture:** Structuring components and application logic to support ongoing development.
+- **Debugging and Refinement:** Investigating application issues and improving reliability during development.
+
+**Engineering focus:** User-friendly interfaces, Supabase integration, data-driven workflows, and maintainable application functionality.
+
+---
+
+## 🧰 Technical Skills
 
 <p align="center">
-  <a href="mailto:muka654r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-mukarram-9220b9312"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Mukarram685"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,nodejs,express,mongodb,supabase,firebase,git,github,vscode,npm,gradle,expo,androidstudio" alt="Technical skills"/>
+</p>
+
+**Additional Skills:** Redux Persist · TanStack Query · React Query · Axios · REST APIs · JWT · Authentication · Authorization · RBAC · React Navigation · OneSignal · Formik · i18next · RTL Support · LiveKit
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukarram685&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukarram685&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mukarram685&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-### ✨ Fun Fact
+## 🧠 Continuous Learning
 
-> “The best code is not the one that just works — it's the one that’s clean, scalable, and tells a story.”
+I'm continuously improving my full-stack engineering skills, exploring better software architecture practices, and learning how to build reliable, scalable web and mobile applications.
+
+I'm also interested in AI-powered application workflows and real-time application technologies, including audio and video integration.
 
 ---
 
-⭐ **If you like what I do, consider following me or giving a star to my repositories!**
+<p align="center">
+  <i>Building useful things, learning continuously, and improving one commit at a time.</i>
+</p>
